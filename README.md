@@ -8,7 +8,7 @@
     <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/Assets/wave.gif" width="50px" height="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
 <table align="center">
 <tr border="none">
@@ -191,7 +191,7 @@
     </picture>
 </p>
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/Assets/handshake.gif' width="50px" height="50px"> Connect Me Via
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="50px" height="50px"> Connect Me Via
 
 <p align="center">
   <a href="https://ashu-guo.github.io/blogs/" target="_blank">
